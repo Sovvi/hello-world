@@ -1,2 +1,4 @@
 # hello-world
-im learing stuff lol
+im learning stuff, lol
+Github looks pretty cool
+I hope to put a lot of stuff on this site
